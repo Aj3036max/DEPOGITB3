@@ -1,0 +1,2 @@
+FROM mon-apache2:latest
+copy mysite /var/www/html
